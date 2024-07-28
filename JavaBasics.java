@@ -28,7 +28,7 @@ public class JavaBasics{
         System.out.println(name);
         System.out.println("-----------------------------------------");
 
-        //Datattypes in Java 
+        //Datatypes in Java 
 
         byte  byn =8;
         System.out.println(b);
